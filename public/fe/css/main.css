@@ -329,6 +329,11 @@ section {
 }
 
 /* --- Tambahkan di bagian akhir file CSS --- */
+@media (max-width: 991.98px) {
+  .header.scrolled .mobile-nav-toggle.mobile-nav-show {
+    color: #111 !important;
+  }
+}
 
 /* Default header: transparan sebelum di scroll */
 .header {
