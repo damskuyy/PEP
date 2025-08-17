@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="fe/img/logo-pep-kecil.png" rel="icon">
-  <link href="fe/img/logo-pep-kecil.png" rel="apple-touch-icon">
+  <link href="/img/logo-pep-kecil.png" rel="icon">
+  <link href="/img/logo-pep-kecil.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,15 +21,15 @@
     rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="fe/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="fe/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="fe/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="fe/vendor/aos/aos.css" rel="stylesheet">
-  <link href="fe/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="fe/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/vendors/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="/vendors/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="/vendors/aos/aos.css" rel="stylesheet">
+  <link href="/vendors/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="/vendors/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="fe/css/main.css" rel="stylesheet">
+  <link href="/css/main.css" rel="stylesheet">
 
   <!-- Sweet Alert -->
   <script src="https://lipis.github.io/bootstrap-sweetalert/dist/sweetalert.js"></script>
@@ -74,7 +74,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
       <a href="/home" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="fe/img/logo-panjang.png" alt="">
+        <img src="/img/logo-panjang.png" alt="">
         {{-- <h1>UpConstruction<span>.</span></h1> --}}
       </a>
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -132,12 +132,12 @@
 
     <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
-      <div class="carousel-item active" style="background-image: url(fe/img/hero-carousel/hero-carousel-1.jpg)">
+      <div class="carousel-item active" style="background-image: url(/img/hero-carousel/hero-carousel-1.jpg)">
       </div>
-      <div class="carousel-item" style="background-image: url(fe/img/hero-carousel/hero-carousel-2.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(fe/img/hero-carousel/hero-carousel-3.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(fe/img/hero-carousel/hero-carousel-4.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(fe/img/hero-carousel/hero-carousel-5.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(/img/hero-carousel/hero-carousel-2.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(/img/hero-carousel/hero-carousel-3.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(/img/hero-carousel/hero-carousel-4.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(/img/hero-carousel/hero-carousel-5.jpg)"></div>
 
       <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -236,7 +236,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(fe/img/constructions-1.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(/img/constructions-1.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
@@ -253,7 +253,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(fe/img/constructions-2.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(/img/constructions-2.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
@@ -271,7 +271,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(fe/img/constructions-3.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(/img/constructions-3.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
@@ -289,7 +289,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(fe/img/constructions-4.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(/img/constructions-4.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
@@ -325,7 +325,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="fe/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                  <img src="/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                   <h3>Saul Goodman</h3>
                   <h4>Ceo &amp; Founder</h4>
                   <div class="stars">
@@ -345,7 +345,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="fe/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                  <img src="/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                   <h3>Sara Wilsson</h3>
                   <h4>Designer</h4>
                   <div class="stars">
@@ -365,7 +365,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="fe/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                  <img src="/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                   <h3>Jena Karlis</h3>
                   <h4>Store Owner</h4>
                   <div class="stars">
@@ -385,7 +385,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="fe/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                  <img src="/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                   <h3>Matt Brandon</h3>
                   <h4>Freelancer</h4>
                   <div class="stars">
@@ -405,7 +405,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="fe/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                  <img src="/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                   <h3>John Larson</h3>
                   <h4>Entrepreneur</h4>
                   <div class="stars">
@@ -442,7 +442,7 @@
           <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="post-item position-relative h-100">
               <div class="post-img position-relative overflow-hidden">
-                <img src="fe/img/blog/blog-1.jpg" class="img-fluid" alt="">
+                <img src="/img/blog/blog-1.jpg" class="img-fluid" alt="">
                 <span class="post-date">December 12</span>
               </div>
               <div class="post-content d-flex flex-column">
@@ -466,7 +466,7 @@
           <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="post-item position-relative h-100">
               <div class="post-img position-relative overflow-hidden">
-                <img src="fe/img/blog/blog-2.jpg" class="img-fluid" alt="">
+                <img src="/img/blog/blog-2.jpg" class="img-fluid" alt="">
                 <span class="post-date">July 17</span>
               </div>
               <div class="post-content d-flex flex-column">
@@ -490,7 +490,7 @@
           <div class="col-xl-4 col-md-6">
             <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="300">
               <div class="post-img position-relative overflow-hidden">
-                <img src="fe/img/blog/blog-3.jpg" class="img-fluid" alt="">
+                <img src="/img/blog/blog-3.jpg" class="img-fluid" alt="">
                 <span class="post-date">September 05</span>
               </div>
               <div class="post-content d-flex flex-column">
@@ -567,12 +567,12 @@
           <div class="col-lg-4 col-md-12 mb-4">
             <h4 class="mb-3" style="color:#ffffff;">Gallery</h4>
             <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:14px; padding:10px; border-radius:12px;">
-              <img src="fe/img/gallery/gallery-footer1.jpg" alt="Gallery 1" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
-              <img src="fe/img/gallery/gallery-footer2.jpg" alt="Gallery 2" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
-              <img src="fe/img/gallery/gallery-footer3.jpg" alt="Gallery 3" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
-              <img src="fe/img/gallery/gallery-footer4.jpg" alt="Gallery 4" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
-              <img src="fe/img/gallery/gallery-footer5.jpg" alt="Gallery 5" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
-              <img src="fe/img/gallery/gallery-footer6.jpg" alt="Gallery 6" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
+              <img src="/img/gallery/gallery-footer1.jpg" alt="Gallery 1" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
+              <img src="/img/gallery/gallery-footer2.jpg" alt="Gallery 2" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
+              <img src="/img/gallery/gallery-footer3.jpg" alt="Gallery 3" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
+              <img src="/img/gallery/gallery-footer4.jpg" alt="Gallery 4" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
+              <img src="/img/gallery/gallery-footer5.jpg" alt="Gallery 5" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
+              <img src="/img/gallery/gallery-footer6.jpg" alt="Gallery 6" style="width:100%; aspect-ratio:3/4; object-fit:cover; border-radius:8px; border:1px solid #eaf8ff;">
             </div>
           </div>
         </div>
@@ -593,13 +593,13 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
-  <script src="fe/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="fe/vendor/aos/aos.js"></script>
-  <script src="fe/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="fe/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="fe/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="fe/vendor/purecounter/purecounter_vanilla.js"></script>
-  <!-- <script src="fe/vendor/php-email-form/validate.js"></script> -->
+  <script src="/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/vendors/aos/aos.js"></script>
+  <script src="/vendors/glightbox/js/glightbox.min.js"></script>
+  <script src="/vendors/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/vendors/swiper/swiper-bundle.min.js"></script>
+  <script src="/vendors/purecounter/purecounter_vanilla.js"></script>
+  <!-- <script src="/vendors/php-email-form/validate.js"></script> -->
   <script>
   window.addEventListener('scroll', function() {
     const header = document.getElementById('header');
@@ -618,7 +618,7 @@
   </script>
 
   <!-- Template Main JS File -->
-  <script src="fe/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       function addPlus() {

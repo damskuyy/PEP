@@ -8,34 +8,34 @@
             <div class="client-carousel-top">
                 <div class="scrolling-wrapper">
                     <div class="scrolling-content">
-                        <img src="fe/img/clients/astra.png" alt="">
-                        <img src="fe/img/clients/eratek.png" alt="">
-                        <img src="fe/img/clients/esdm.png" alt="">
-                        <img src="fe/img/clients/kayan.png" alt="">
-                        <img src="fe/img/clients/mortar-utama.png" alt="">
+                        <img src="/img/clients/astra.png" alt="">
+                        <img src="/img/clients/eratek.png" alt="">
+                        <img src="/img/clients/esdm.png" alt="">
+                        <img src="/img/clients/kayan.png" alt="">
+                        <img src="/img/clients/mortar-utama.png" alt="">
                         <!-- Duplicate for seamless scroll -->
-                        <img src="fe/img/clients/astra.png" alt="">
-                        <img src="fe/img/clients/eratek.png" alt="">
-                        <img src="fe/img/clients/esdm.png" alt="">
-                        <img src="fe/img/clients/kayan.png" alt="">
-                        <img src="fe/img/clients/mortar-utama.png" alt="">
+                        <img src="/img/clients/astra.png" alt="">
+                        <img src="/img/clients/eratek.png" alt="">
+                        <img src="/img/clients/esdm.png" alt="">
+                        <img src="/img/clients/kayan.png" alt="">
+                        <img src="/img/clients/mortar-utama.png" alt="">
                     </div>
                 </div>
             </div>
             <div class="client-carousel-bottom">
                 <div class="scrolling-wrapper">
                     <div class="scrolling-content">
-                        <img src="fe/img/clients/pdam.png" alt="">
-                        <img src="fe/img/clients/pph.png" alt="">
-                        <img src="fe/img/clients/raffi.png" alt="">
-                        <img src="fe/img/clients/sangkuriang.png" alt="">
-                        <img src="fe/img/clients/johnson.png" alt="">
+                        <img src="/img/clients/pdam.png" alt="">
+                        <img src="/img/clients/pph.png" alt="">
+                        <img src="/img/clients/raffi.png" alt="">
+                        <img src="/img/clients/sangkuriang.png" alt="">
+                        <img src="/img/clients/johnson.png" alt="">
                         <!-- Duplicate for seamless scroll -->
-                        <img src="fe/img/clients/pdam.png" alt="">
-                        <img src="fe/img/clients/pph.png" alt="">
-                        <img src="fe/img/clients/raffi.png" alt="">
-                        <img src="fe/img/clients/sangkuriang.png" alt="">
-                        <img src="fe/img/clients/johnson.png" alt="">       
+                        <img src="/img/clients/pdam.png" alt="">
+                        <img src="/img/clients/pph.png" alt="">
+                        <img src="/img/clients/raffi.png" alt="">
+                        <img src="/img/clients/sangkuriang.png" alt="">
+                        <img src="/img/clients/johnson.png" alt="">       
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 @extends('fe.master')
 @section('content')
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('fe/img/breadcrumbs.png');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('/img/breadcrumbs.png');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>About</h2>
@@ -18,7 +18,7 @@
 
         <div class="row position-relative">
 
-          <div class="col-lg-7 about-img" style="background-image: url(fe/img/about1.jpg);"></div>
+          <div class="col-lg-7 about-img" style="background-image: url(/img/about1.jpg);"></div>
 
           <div class="col-lg-7">
             <h2>PT. Perkasa Elektrika Power</h2>
@@ -135,7 +135,7 @@
               </div>
             </div><!-- End Icon Box -->
           </div>
-          <div class="col-lg-6 img-bg" style="background-image: url(fe/img/about2.jpg);" data-aos="zoom-in"
+          <div class="col-lg-6 img-bg" style="background-image: url(/img/about2.jpg);" data-aos="zoom-in"
             data-aos-delay="100"></div>
         </div>
       </div>
@@ -155,7 +155,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
             <div class="member-img">
-              <img src="fe/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="/img/team/team-1.jpg" class="img-fluid" alt="">
             </div>
             <div class="member-info text-center">
               <h4>Walter White</h4>
@@ -167,7 +167,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="200">
             <div class="member-img">
-              <img src="fe/img/team/team-2.jpg" class="img-fluid" alt="">
+              <img src="/img/team/team-2.jpg" class="img-fluid" alt="">
             </div>
             <div class="member-info text-center">
               <h4>Sarah Jhonson</h4>
@@ -179,7 +179,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
             <div class="member-img">
-              <img src="fe/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="/img/team/team-3.jpg" class="img-fluid" alt="">
             </div>
             <div class="member-info text-center">
               <h4>William Anderson</h4>
@@ -191,7 +191,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
             <div class="member-img">
-              <img src="fe/img/team/team-4.jpg" class="img-fluid" alt="">
+              <img src="/img/team/team-4.jpg" class="img-fluid" alt="">
             </div>
             <div class="member-info text-center">
               <h4>Amanda Jepson</h4>
@@ -203,7 +203,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="500">
             <div class="member-img">
-              <img src="fe/img/team/team-5.jpg" class="img-fluid" alt="">
+              <img src="/img/team/team-5.jpg" class="img-fluid" alt="">
             </div>
             <div class="member-info text-center">
               <h4>Brian Doe</h4>
@@ -215,7 +215,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="600">
             <div class="member-img">
-              <img src="fe/img/team/team-6.jpg" class="img-fluid" alt="">
+              <img src="/img/team/team-6.jpg" class="img-fluid" alt="">
             </div>
             <div class="member-info text-center">
               <h4>Josepha Palas</h4>

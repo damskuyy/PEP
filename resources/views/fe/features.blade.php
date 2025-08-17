@@ -52,7 +52,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <img src="fe/img/features5.jpg" alt="" class="img-fluid">
+                <img src="/img/features5.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -68,7 +68,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="fe/img/features1.jpg" alt="" class="img-fluid">
+                <img src="/img/features1.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -84,7 +84,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="fe/img/features6.jpg" alt="" class="img-fluid">
+                <img src="/img/features6.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -100,7 +100,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="fe/img/features2.jpg" alt="" class="img-fluid">
+                <img src="/img/features2.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -115,7 +115,7 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="fe/img/features4.jpg" alt="" class="img-fluid">
+                <img src="/img/features4.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -129,7 +129,7 @@
                   Garansi ini mencakup perbaikan atau penyesuaian jika ditemukan ketidaksesuaian atau kerusakan dalam batas waktu yang telah ditentukan. Kami siap memberikan dukungan teknis dan solusi cepat demi memastikan kepuasan jangka panjang. Bagi kami, layanan purna jual yang baik adalah bagian tak terpisahkan dari pelayanan menyeluruh, dan menjadi salah satu nilai utama dalam membangun hubungan jangka panjang dengan pelanggan.
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="fe/img/features3.jpg" alt="" class="img-fluid">
+                <img src="/img/features3.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
